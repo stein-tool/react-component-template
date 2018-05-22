@@ -7,4 +7,3 @@ export default class <{%=className %}> extends React.Component {
 }
 }
 
-	export default <{%=className %}>;
